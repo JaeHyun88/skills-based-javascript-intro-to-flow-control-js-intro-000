@@ -33,4 +33,4 @@ function switchAge(age) {
 
 }
 
-basicTeenager(13)
+basicTeenager(14)
